@@ -1,2 +1,5 @@
 # jpos-xml-log
-converts JPOS xml log into a table
+Converts JPOS XML log into HTML
+
+
+xsltproc jpos.xml <JPOS XML file>
